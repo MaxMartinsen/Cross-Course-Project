@@ -1,10 +1,10 @@
-@import "/GameHub-v2/css/reset.css";
+@import "/css/reset.css";
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap");
-@import "/GameHub-v2/css/products.css";
-@import "/GameHub-v2/css/ui.css";
-@import "/GameHub-v2/css/card.css";
-@import "/GameHub-v2/css/details.css";
+@import "/css/products.css";
+@import "/css/ui.css";
+@import "/css/card.css";
+@import "/css/details.css";
 :root {
   --container-width: 1270px;
   --container-padding: 15px;
