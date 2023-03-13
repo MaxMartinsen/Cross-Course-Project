@@ -1,0 +1,64 @@
+/* Card */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  max-width: 300px;
+  margin: 1rem;
+  border-radius: 1rem;
+  text-decoration: none;
+}
+
+.card a.details {
+  margin-top: 0.5em;
+  background-color: var(--grey) !important;
+  color: white !important;
+}
+
+.card:hover {
+  box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.card div.details {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+  background: white;
+  border-radius: 0 0 1rem 1rem;
+  border-color: #b3b3b3;
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+}
+
+/* Name */
+
+.name {
+  font-size: 16px;
+  margin-bottom: 0.75rem;
+  color: var(--grey);
+  font-weight: bold;
+}
+
+/* Status */
+
+.status {
+  font-size: 14px;
+  color: var(--grey);
+}
+
+.status-alive {
+  color: green;
+}
+.status-dead {
+  color: red;
+}
+
+/* Image */
+
+.image {
+  border-radius: 1rem 1rem 0 0;
+  height: 375px;
+  background-size: cover;
+  background-position: center top;
+}

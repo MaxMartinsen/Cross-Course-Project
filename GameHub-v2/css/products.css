@@ -1,0 +1,21 @@
+/* Products */
+
+.results-container {
+  margin-top: 40px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.products_content {
+}
+.products_title {
+  margin-bottom: 20px;
+  font-size: 26px;
+}
+.products_text {
+  margin-bottom: 40px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #3a3a3a;
+  max-width: 450px;
+}
