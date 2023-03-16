@@ -781,8 +781,7 @@ i {
   }
 
   .header__img::after {
-    top: 100px;
-    right: 0px;
+    display: none;
   }
 
   .header__title {
@@ -933,11 +932,11 @@ i {
     border-radius: 40px;
   }
   .cta__plate::before {
-    left: -2px;
+    display: none;
   }
 
   .cta__plate::after {
-    right: -2px;
+    display: none;
   }
 
   /* subscribe */
