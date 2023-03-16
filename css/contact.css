@@ -23,7 +23,7 @@
 .contact__row__description {
   padding: 20px 0px 0px 60px;
 }
-.conatact__row-explanation {
+.contact__row-explanation {
   max-width: 650px;
   font-size: 14px;
   text-align: center;
@@ -103,7 +103,7 @@ textarea {
 }
 
 @media (max-width: 850px) {
-  .contact-title {
+  .contact__row-title {
     font-size: 35px;
     text-align: center;
     margin-bottom: 25px;
@@ -112,7 +112,7 @@ textarea {
   .contact__row__description {
     padding: 0px 15px 0px 15px;
   }
-  .contact-badge {
+  .contact__row-badge {
     font-size: 16px;
     font-weight: 600;
   }
