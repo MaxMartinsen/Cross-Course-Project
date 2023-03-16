@@ -5,10 +5,13 @@
 @import "/css/ui.css";
 @import "/css/card.css";
 @import "/css/details.css";
+@import "/css/contact.css";
+
 :root {
   --container-width: 1270px;
   --container-padding: 15px;
-  --secondary: rgba(15, 31, 28, 0.5);
+  --secondary: rgba(48, 72, 68, 0.5);
+  --blue: #4b70de;
 }
 html,
 body {
@@ -166,7 +169,7 @@ h1 {
   display: block;
   /* width: 35px; */
   height: 4px;
-  background-color: #4b70de;
+  background-color: var(--blue);
   border-radius: 50px;
 }
 
@@ -206,7 +209,7 @@ h1 {
 }
 
 .logo--footer {
-  color: #4b70de;
+  color: var(--blue);
 }
 
 /* Header content */
