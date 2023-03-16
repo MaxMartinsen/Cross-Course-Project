@@ -28,6 +28,9 @@ h1 {
 .none {
   display: none !important;
 }
+i {
+  display: none;
+}
 
 .container {
   max-width: var(--container-width);
