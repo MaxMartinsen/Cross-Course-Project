@@ -548,6 +548,7 @@ h1 {
   top: 1px;
 }
 
+.btn--send,
 .btn--buy {
   padding: 15px 45px;
 }
