@@ -13,16 +13,17 @@ setTimeout(() => {
   try {
     const product = products.find(product => product.id === id);
 
-    detailsContainer.innerHTML = `<div class="details-image" style="background-image: url(${product.img});"></div>
+    detailsContainer.innerHTML = `
+    <div class="details-image" style="background-image: url(${product.img});"></div>
     <div class="details">
       <h2>${product.game}</h2>
       <p>Brand: ${product.brand}</p>
       <h3>Description:</h3>
       <p>${product.description}</p>
       <h4>Price: ${product.price} $</h4>
-      <a href="#!" class="btn btn--buy">Buy now</a>
+      <a href="/checkout.html?id=${product.id}" class="btn btn--buy">Buy now</a>
     </div>
-    `;
+  `;
 
   } catch (error) {
 

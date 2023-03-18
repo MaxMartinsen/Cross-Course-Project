@@ -1,0 +1,101 @@
+/* Payment */
+.success-container,
+.payment-container {
+  display: flex;
+  column-gap: 68px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.payment__colums__item {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  max-width: 450px;
+  margin: 1rem;
+}
+
+.payment__colums__item h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.payment__colums__item h3 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+input,
+select,
+fieldset,
+button {
+  border: none;
+  outline: none;
+}
+
+fieldset {
+  display: block;
+}
+
+label {
+  display: block;
+}
+
+input,
+select {
+  padding: 8px 12px;
+  margin: 5px 5px 5px 0;
+  border-radius: 3px;
+}
+input:nth-last-of-type(1),
+select:nth-last-of-type(1) {
+  margin-right: 0;
+}
+
+.number input {
+  width: calc(25% - 7px);
+}
+
+.name input {
+  width: 100%;
+}
+
+.exp,
+.ccv {
+  display: inline-block;
+}
+
+.exp {
+  width: 60%;
+}
+.exp select {
+  width: calc(50% - 5px);
+}
+
+.ccv {
+  width: 40%;
+}
+.ccv input {
+  width: 40%;
+}
+
+@media (max-width: 460px) {
+  .checkout-product {
+    max-width: 270px;
+  }
+  .checkout-image {
+    height: 370px;
+  }
+}
+@media (max-width: 360px) {
+  .checkout-product {
+    max-width: 220px;
+    margin: 0;
+  }
+  .checkout-image {
+    height: 350px;
+  }
+  .ccv input {
+    width: 70%;
+  }
+}

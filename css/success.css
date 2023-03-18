@@ -1,0 +1,23 @@
+/* Success */
+.success-container {
+  display: flex;
+  column-gap: 68px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.success__colums__item {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  max-width: 450px;
+  margin: 1rem;
+}
+.success__colums__item h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.success__colums__item p {
+  margin-bottom: 15px;
+  text-align: center;
+}

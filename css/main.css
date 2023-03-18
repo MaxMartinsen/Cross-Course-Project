@@ -7,6 +7,10 @@
 @import "/css/details.css";
 @import "/css/contact.css";
 @import "/css/about.css";
+@import "/css/checkout.css";
+@import "/css/payment.css";
+@import "/css/success.css";
+@import "/css/sell.css";
 
 :root {
   --container-width: 1270px;
