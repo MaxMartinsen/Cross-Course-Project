@@ -28,7 +28,7 @@
 }
 @media (max-width: 460px) {
   .checkout-product {
-    max-width: 270px;
+    max-width: 300px;
   }
   .checkout-image {
     height: 370px;
