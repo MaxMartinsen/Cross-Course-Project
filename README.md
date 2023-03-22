@@ -1,6 +1,6 @@
 # Interaction-Design
 
-Interaction Design Game Hub v2
+Interaction Design Game Hub the updated website.
 
 # GameHub
 
@@ -35,43 +35,6 @@ GameHub allows you to purchase new and old games from all the popular consoles a
 - Checkout success
 - About
 - Contact
-
-## Rapport
-
-### Project Title
-
-GameHub - HTML and CSS - Course Assignment
-
-### Design
-
-Web:
-
-https://www.figma.com/proto/nIn3YrJdXZWN8encNUNWeW/2022-09-05_design_ca_max-martinsen_web?node-id=16%3A4&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=16%3A4
-
-### Link
-
-GameHub Web:
-
-https://effortless-caramel-3538a6.netlify.app
-
-GameHub Github:
-
-https://github.com/MaxMartinsen/2022-10-15_html-css_ca_max-martinsen_web.git
-
-## Help
-
-Create a horizontal media scroller with CSS:
-
-- Twitter: https://twitter.com/KevinJPowell
-- Codepen: https://codepen.io/kevinpowell/
-- Github: https://github.com/kevin-powell
-
-https://www.youtube.com/watch?v=3yfswsnD2sw&t=803s&ab_channel=KevinPowell
-https://codepen.io/kevinpowell/pen/ExbKBQa
-
-Playlist Carousel - css only
-
-https://codepen.io/aybukeceylan/pen/RwrRPoO
 
 ## Authors
 
