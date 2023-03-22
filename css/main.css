@@ -372,6 +372,7 @@ i {
   margin-bottom: 35px;
   font-size: 45px;
   font-weight: 500;
+  max-width: 500px;
 }
 
 /* Review */
