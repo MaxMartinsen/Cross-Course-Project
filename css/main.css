@@ -136,7 +136,7 @@ i {
 
   position: absolute;
   top: -30px;
-  right: -50px;
+  right: 0px;
 
   width: 830px;
   height: 622px;
@@ -751,7 +751,7 @@ i {
 
   .nav--mobile .nav__toggle {
     position: fixed;
-    top: 60px;
+    top: 30px;
     right: 15px;
   }
 
