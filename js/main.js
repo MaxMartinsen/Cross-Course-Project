@@ -39,3 +39,10 @@ navBtn.onclick = function () {
 	menuIcon.classList.toggle('menu-icon--active');
 	document.body.classList.toggle('no-scroll');
 };
+
+
+// Back
+const page = params.get("page");
+
+let currentPage = page ? parseInt(page) : 1;
+

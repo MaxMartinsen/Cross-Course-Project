@@ -44,6 +44,7 @@
         
                 <main>
                     <div class="container">
+                        <div class="back-link"><a href="#" class="btn--back" id="back">Back</a></div>
                         <div class="products_content">
                             <h1 class="products_title">Sell</h1>
                         </div>
@@ -51,12 +52,13 @@
                             <h2>GameHub is the best way to sell games for cash</h2>
                             <p>GameHub is the best way to sell games, whether you want to update your collection or just need some cash.</p>
                             <p>You can sell latest titles or favorite classics such as Super Mario and Halo. Whether it's brand new, lightly used, physical or digital, you can sell them all on GameHub.</p>
-                            <p>Simply list your games using our website or our free mobile app. Once your game is sold, follow the instruction to ship (physical games) or send it (digital games) to the buyer. After the buyer receives your game and completes the transaction by rating, the sale proceeds are immediately deposited into your Gameflip wallet. You can choose to withdraw your sale proceeds any time or spend it on building your next collection.</p>
+                            <p>Simply list your games using our mail form. Once your game is sold, follow the instruction to ship (physical games) or send it (digital games) to the buyer. After the buyer receives your game and completes the transaction by rating, the sale proceeds are immediately deposited into your Gameflip wallet. You can choose to withdraw your sale proceeds any time or spend it on building your next collection.</p>
                             <div class="sell-form">
                                 <h3>Sell your Games for real Cash</h3>
                                 <form class="sell-form">
                                     <label for="email"><i>.</i></label>
                                     <input class="sell-form__input" type="email" id="email" name="email" required placeholder="Yourmail@mail.com">
+                                    <div class="form-error" id="emailError">Please enter a valid email address</div>
                                     <button class="btn btn--sell">Send a request</button>
                                 </form>
                             </div>
@@ -100,7 +102,7 @@
     ></script>
         <script src="js/components/message.js"></script>
 		<script src="/js/main.js"></script>
-        <script src="/js/products-array.js"></script>
-        <script src="/js/payment.js"></script>
+        <script src="/js/back.js"></script>
+        <script src="/js/sell.js"></script>
 	</body>
 </html>
