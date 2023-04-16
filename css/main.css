@@ -228,7 +228,7 @@ i {
   padding: 11px 30px;
   font-size: 18px;
   font-weight: 500;
-  color: #4b70de;
+  color: var(--blue);
   background: #cecece6d;
   border-radius: 15px;
 }
