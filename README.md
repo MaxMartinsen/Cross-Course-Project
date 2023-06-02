@@ -18,11 +18,15 @@ The universe of games
 
 Aged 18 to 25 who are interested in computer games, and would either like to purchase games or would like to sell games they have finished playing.
 
+---
+
 ### Unique selling points
 
 For a user buying games: It is an online game store that provides digital games to gamers at a competitive price.
 
 GameHub allows you to purchase new and old games from all the popular consoles as well as PC games.
+
+---
 
 ## Description
 
