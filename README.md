@@ -12,7 +12,7 @@ GameHub is a competitively priced website with a huge range of games.
 
 The universe of games
 
-### Target audience
+## Target audience:
 
 #### Gamers
 
@@ -28,7 +28,7 @@ GameHub allows you to purchase new and old games from all the popular consoles a
 
 ---
 
-## Description
+### Description
 
 This project was a school assignment where one should create a website for users to be able to buy and/or sell used computer or console games.
  It contains:
@@ -37,8 +37,10 @@ This project was a school assignment where one should create a website for users
 - a contact page
 - an about me page
 - a List all games page
+- a product page
+- checkout page and success
 
-## Built With
+### Built With
 
 This project was build using:
 
