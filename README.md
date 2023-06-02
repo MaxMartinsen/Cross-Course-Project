@@ -57,7 +57,7 @@ This project was build using:
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:Noroff-FEU-Assignments/cross-course-project-Sovak3441.git
+git clone https://github.com/MaxMartinsen/Cross-Course-Project.git
 ```
 
 
