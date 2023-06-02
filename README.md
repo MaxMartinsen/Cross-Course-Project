@@ -6,6 +6,8 @@ GameHub is an online shop where users can purchase computer games. This gaming m
 
 GameHub is a competitively priced website with a huge range of games.
 
+---
+
 ### Slogan
 
 The universe of games
