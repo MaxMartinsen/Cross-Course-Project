@@ -1,4 +1,5 @@
 # GameHub
+## Cross-Course-Project
 
 ![GameHub logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-three/master/GameHub_Logo.png)
 
