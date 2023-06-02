@@ -1,7 +1,3 @@
-# Interaction-Design
-
-Interaction Design Game Hub the updated website.
-
 # GameHub
 
 ![GameHub logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-three/master/GameHub_Logo.png)
